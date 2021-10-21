@@ -1,6 +1,6 @@
-- 👋 Hi!
+- 👋 Hi! I'm an independant web developer.
 - 👀 I’m interested in building fast, performant web experience.
-- 🌱 I’m currently learning Next.js, Redux.
+- 🌱 I’m currently learning Next.js & Redux.
 - 📫 How to reach me [Twitter](https://twitter.com/hns_dev)
 
 <!---
