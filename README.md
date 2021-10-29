@@ -1,6 +1,6 @@
-- 👋 Hi! I'm an independant web developer.
-- 👀 I’m interested in building fast, performant web experience.
-- 🌱 I’m currently learning Next.js & Redux.
+- 👋 Hi! I'm an independant web developer. I enjoy building fast, performant web experience.
+- 👀 I’m interested in Jamstack.
+- 🌱 I’m currently learning Next.js & diving more into react.
 - 📫 How to reach me [Twitter](https://twitter.com/hns_dev)
 
 <!---
