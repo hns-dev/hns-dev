@@ -1,7 +1,6 @@
 - 👋 Hi! I'm an independant web developer. I enjoy building fast, performant web experience.
 - 👀 I’m interested in Jamstack.
 - 🌱 I’m currently learning Next.js & diving more into react.
-- 📫 How to reach me [Twitter](https://twitter.com/hns_dev)
 
 <!---
 hns-dev/hns-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
