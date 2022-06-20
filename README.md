@@ -1,6 +1,6 @@
-- 👋 Hi! I'm an independant web developer. I enjoy building fast, performant web experience.
-- 👀 I’m interested in Jamstack.
-- 🌱 I’m currently learning Next.js & diving more into react.
+Hi!👋 I'm a full-stack web developer. I enjoy troubleshooting performance issues.
+Currently, I'm focusing on frontend development and solidifying my React skill.
+
 
 <!---
 hns-dev/hns-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
